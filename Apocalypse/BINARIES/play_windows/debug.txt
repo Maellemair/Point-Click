@@ -1,2 +1,4 @@
 New Game
 success ok #5
+success ok #11
+success ok #14
